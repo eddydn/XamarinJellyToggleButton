@@ -1,0 +1,1 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/itself" android:title="IT SELF" android:showAsAction="never" /><item android:id="@+id/lazy1" android:title="LAZY TREMBLE HEAD SLIM JIM" android:showAsAction="never" /><item android:id="@+id/lazy2" android:title="LAZY TREMBLE TAIL FATTY" android:showAsAction="never" /></menu>
