@@ -10,8 +10,8 @@
 [![FaceOffToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true)](https://github.com/Nightonke/FaceOffToggleButton)
 
 This is JellyToggleButton project on Xamarin.Android
-Base on original library [Android JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)
-You can get library [from Nuget](https://www.nuget.org/packages/JellyToggleButton/2.0.0)
+Base on original library [Android JellyToggleButton](https://github.com/Nightonke/JellyToggleButton).
+You can get library [from Nuget](https://www.nuget.org/packages/JellyToggleButton/2.0.0).
 
 ![JellyToggleButton](https://github.com/Nightonke/JellyToggleButton/blob/master/img/JellyToggleButton4.gif?raw=true)  
 JellyToggleButton(JTB) is a cute toggle button with 18 jelly types and 30 ease types.  
